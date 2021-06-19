@@ -1,0 +1,1 @@
+To run application, first run titanic.py. Model will get trained and trained model will get created. Then run main.py & enter all details which it asks. It will predict whether this person would had survived from titanic crash or not.
